@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-![snake gif](https://github.com/DanielSouzaCruz/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DanielSouzaCruz/DanielSouzaCruz/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
