@@ -1,4 +1,7 @@
-## Hi there 👋
+## Oi, Meu Nome é Daniel 👋
+
+## ⭐ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielSouzaCruz&show_icons=true)
 
 <!--
 **DanielSouzaCruz/DanielSouzaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
