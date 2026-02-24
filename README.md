@@ -1,4 +1,4 @@
-## Oi, Meu Nome é Daniel 👋
+## Oi, Meu Nome é Daniel ! 👋
 
 ## Linkedin: www.linkedin.com/in/daniel-souza-da-cruz-35056b254
 
